@@ -3,3 +3,4 @@
 
 ### 블로그
 [프로그래밍 관련 에세이](https://jeho.page) 를 씁니다.  
+[전업 투자자 관련 에세이](https://brunch.co.kr/@buildingking) 도 씁니다.  
